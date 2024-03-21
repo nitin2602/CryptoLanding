@@ -31,7 +31,7 @@ const Pricing = () => {
           </HStack>
         </HStack>
 
-        <Image mt={6} src="public\Graph.svg" alt="" />
+        <Image mt={6} src="\Graph.svg" alt="" />
       </Stack>
     </Card>
   );
